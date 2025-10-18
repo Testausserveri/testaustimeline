@@ -1,6 +1,6 @@
 # Testaustimeline
 
-An over engineered scripts to generate a timeline of Testausserveri history
+An over engineered script to generate a timeline of Testausserveri history
 
 ![A sample timeline)](docs/timeline.svg)
 
@@ -18,7 +18,7 @@ An over engineered scripts to generate a timeline of Testausserveri history
 4. Set environment variables `GCP_API_KEY` and `SHEETS_ID`. You can use a dotenv file.  
    `GCP_API_KEY` is the key you just generated and `SHEETS_ID` is the lon hexadecimal in the sheet link.
 
-> [INFO]  
+> [!TIP]  
 > The `SHEETS_ID` of the main spreadsheet is `18frYouif8XON7jsx3Cf50qABWK4O32Dkrz9Aaqq9FUs`.
 
 ## Usage
