@@ -1,0 +1,11 @@
+# Dotenv file
+.env
+
+# The output folder
+output/
+
+# Virtual environments
+.venv/
+.env/
+venv/
+env/
